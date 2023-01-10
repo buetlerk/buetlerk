@@ -4,7 +4,7 @@
   
 <h1 align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=buetlerk&theme=sea&date_format=j%20M%5B%20Y%5D) <img src="https://avatars.githubusercontent.com/u/41376628?v=4" width="195" height="195" />
+![GitHub Streak](https://streak-stats.demolab.com?user=buetlerk&theme=sea&date_format=j%20M%5B%20Y%5D) <img src="Leopard_Laptop.png" width="194" height="194" />
 
 </h1>
 <p align="center"> Supported by <br>
