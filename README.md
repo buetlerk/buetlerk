@@ -4,7 +4,7 @@
   
 <h1 align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-seven-omega.vercel.app?user=buetlerk&theme=sea&date_format=j%20M%5B%20Y%5D) <img src="Leopard_Laptop.png" width="194" height="194" />
+![GitHub Streak](https://github-readme-streak-stats-seven-omega.vercel.app/?user=buetlerk&theme=sea&date_format=j%20M%5B%20Y%5D) <img src="Leopard_Laptop.png" width="194" height="194" />
 
 </h1>
 <p align="center"> Supported by <br>
